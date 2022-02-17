@@ -1,6 +1,4 @@
-#include<stdio.h>
-#define size 309
-#include<math.h> 
+
 
 int max(int a,int b) 
 {
